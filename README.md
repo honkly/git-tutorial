@@ -7,3 +7,5 @@ git diff
  - branch fix-B
 
  - feature-C
+
+ - feature-D
